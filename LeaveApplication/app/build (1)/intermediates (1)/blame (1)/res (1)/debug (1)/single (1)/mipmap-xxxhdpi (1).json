@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Shashi.mishra\\AndroidStudioProjects\\LeaveApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\leaveappicon.png",
+        "source": "C:\\Users\\Shashi.mishra\\AndroidStudioProjects\\LeaveApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\leaveappicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shashi.mishra\\AndroidStudioProjects\\LeaveApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Shashi.mishra\\AndroidStudioProjects\\LeaveApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

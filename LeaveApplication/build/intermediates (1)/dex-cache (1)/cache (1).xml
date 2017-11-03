@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_e41bef713e11105aebc92c0cc91d93bee1dc2c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_64873b895b7f50120e95aa371929f231bf344872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_eb4c33307d6ecd5161d7917fa80e084492a59a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_fb43b52b8a98548c35e38de0ff4011be5da6dae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2efdbddce22c1ae6a0198b13eac60d43bf939e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_547e0162ff31a898a195ae5dabd84817fcf2d354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_784b0dc17bfab14d99070f70b08e8a16b3cc7371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_e33244461204093c7a7c2daaf5fc7b0be1151025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_6755007339b1ff9b9779002e568f8438b1b66dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_53580599c3f53e502d3d66795807f90a2ad74582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_5e8ca9ca08b7fe34f56055bb9b7981b652eab1fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_51a4cc0438afe31591c82f8071ff0507870ec117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_3b42df7e45994773fbcee90870aa0dce41a21908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_1b778d847d589cd04b324337b6a7dd9ba9052de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_fc07ad34333738bbcb8db9a58d8116d67b796f34.jar" />
+    </item>
+
+</items>

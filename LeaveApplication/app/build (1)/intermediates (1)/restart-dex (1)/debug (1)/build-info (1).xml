@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="108959876787190"
+    token="4301724573483373043" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="107568708186465"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="108211056905916"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\builds\debug\108211056905916\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108294979730074"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Shashi.mishra\AndroidStudioProjects\LeaveApplication\app\build\intermediates\builds\debug\108294979730074\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="108959876787190" />
+
+</instant-run>

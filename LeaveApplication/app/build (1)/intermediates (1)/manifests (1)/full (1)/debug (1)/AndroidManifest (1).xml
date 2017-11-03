@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shashimishra.leaveapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/leaveappicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.shashimishra.leaveapplication.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.shashimishra.leaveapplication.Admin_login" />
+        <activity android:name="com.example.shashimishra.leaveapplication.Form_Activity" />
+        <activity android:name="com.example.shashimishra.leaveapplication.FinalForm1" />
+        <activity android:name="com.example.shashimishra.leaveapplication.FinalForm2" />
+        <activity android:name="com.example.shashimishra.leaveapplication.RegistrationForm" />
+        <activity android:name="com.example.shashimishra.leaveapplication.OTPActivity" />
+        <activity android:name="com.example.shashimishra.leaveapplication.NavigationalActivity" />
+    </application>
+
+</manifest>
